@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name woodstock)(type Legacy)(uri ${KIPRJMOD}/woodstock.lib)(options "")(descr ""))
+)
